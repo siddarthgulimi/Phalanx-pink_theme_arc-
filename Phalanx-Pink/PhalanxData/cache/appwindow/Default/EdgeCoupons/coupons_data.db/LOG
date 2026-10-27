@@ -1,0 +1,5 @@
+2026/10/27-10:15:03.577 35e0 Creating DB C:\Users\rishi\Downloads\Phalanx-Pink\Phalanx-Pink\PhalanxData\cache\appwindow\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/10/27-10:15:03.599 35e0 Reusing MANIFEST C:\Users\rishi\Downloads\Phalanx-Pink\Phalanx-Pink\PhalanxData\cache\appwindow\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/10/27-10:15:04.061 13c4 Level-0 table #5: started
+2026/10/27-10:15:04.067 13c4 Level-0 table #5: 683273 bytes OK
+2026/10/27-10:15:04.075 13c4 Delete type=0 #3
